@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Head over https://chiragiitk.github.io/react-calculator-app to view the app.
 
 ## Available Scripts
 
